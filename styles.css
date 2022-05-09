@@ -1,0 +1,115 @@
+.body {
+    background-color:rgb(255, 255, 255);
+    margin-right: 100px;
+    margin-left: 100px;
+}
+/* this tutorial helped me create these cool interactive buttons seen below
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_button3
+ */
+.button{
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+    
+}
+.handButton{
+    background-color: white; 
+  color: black; 
+  border: 2px solid #0f4110;;
+}
+.handButton:hover{
+    background-color: #0f4110;;
+    color: white;
+}
+.linkButton{
+    background-color: white; 
+  color: black; 
+  border: 2px solid #0f4110;;
+}
+.linkButton:hover{
+    background-color: #0f4110;;
+    color: white;
+}
+.resButton{
+    background-color: white; 
+  color: black; 
+  border: 2px solid #0f4110;;
+}
+.resButton:hover{
+    background-color: #0f4110;;
+    color: white;
+}
+.center {
+    text-align: center;
+    
+}
+.headshot {
+    height: 375px; 
+    width: 300px;
+    text-align :center;
+    margin-top: 10px;
+    
+    border-style:solid;
+}
+.portrait {
+    height: 375px; 
+    width: 300px;
+}
+.landscape {
+    height: 300px; 
+    width: 400px;
+}
+/*from stack https://stackoverflow.com/questions/17220188/how-can-i-place-3-objects-next-to-each-other-in-html*/
+.menu  > * {
+    display: inline-block;
+    
+}
+.contact  {
+    margin-right: 50px;
+    margin-left: 50px
+
+}
+
+h2 {
+    color: #0f4110;
+}
+.bottom {
+    border-bottom-style: solid;
+    border-color: #0f4110;
+}
+.Intro {
+    border-style:solid;
+    border-color:#0f4110;
+    justify-content: space-evenly;
+    
+   
+}
+.exp {
+    border-style: solid;
+    border-color:black;
+    
+    margin-top: 50px;
+    
+    
+}
+.edu{
+    border-style:solid;
+    border-color:#0f4110;
+    margin-top: 50px;
+}
+
+.meet {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.buttons {
+    justify-content: space-evenly;
+}

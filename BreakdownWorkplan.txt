@@ -1,0 +1,7 @@
+- create a locally hosted webpage with node.js DONE
+- import express DONE
+- add image to webpage
+- markdown ???
+- format the layout
+- create link to handshake profile
+- 

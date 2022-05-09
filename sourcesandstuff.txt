@@ -1,0 +1,11 @@
+https://medium.com/@mohammedijas/hello-world-in-node-js-b333275ddc89
+used to setup node.js and make first hello world webpage
+
+https://stackoverflow.com/questions/17220188/how-can-i-place-3-objects-next-to-each-other-in-html
+https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link
+
+https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_button3
+
+https://www.markdownguide.org/basic-syntax/  
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
